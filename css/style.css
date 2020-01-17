@@ -23,6 +23,14 @@
 
 
 }
+.Team-a
+{
+  width: 50%;
+}
+.Team-b
+{
+  width: 50%;
+}
 .team-image-container {
     height: 150px;
     width: 150px;
